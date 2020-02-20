@@ -7,5 +7,6 @@ Rules:
 
 This game is implemented by LabView.
 
+The voice source is from YouTube Media Library.
 
 P.S. Part of UI of the game and the document is in Traditional Chinese currently.  
