@@ -6,3 +6,6 @@ Rules:
 2.The first one whose items can be a line (horizontal, vertical, or diagonal) is winner, while the other one is loser.
 
 This game is implemented by LabView.
+
+
+P.S. Part of UI of the game and the document is in Traditional Chinese currently.  
